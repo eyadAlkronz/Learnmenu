@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Learnmenu</string>
+
+    <array name="items">
+        <item>eyad</item>
+        <item>adi</item>
+        <item>ziad</item>
+        <item>osama</item>
+    </array>
+</resources>
